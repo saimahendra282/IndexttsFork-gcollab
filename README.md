@@ -3,6 +3,7 @@
 
 ## Credit
 [Spark-TTS](https://github.com/SparkAudio/Spark-TTS) <br>
+[Spark-TTS-0.5B Hugging Face](https://huggingface.co/SparkAudio/Spark-TTS-0.5B)
 ## LICENSE
 [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0) <br>
 
