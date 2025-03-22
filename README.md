@@ -1,12 +1,49 @@
-# Run Spark TTS on Google Colab
+## Spark TTS
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuralFalconYT/Spark-TTS-Colab/blob/main/Spark_TTS_Colab.ipynb) <br>
 
+## csm-1b
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuralFalconYT/Spark-TTS-Colab/blob/main/CSM.ipynb) <br>
+
+## F5_TTS
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuralFalconYT/Spark-TTS-Colab/blob/main/F5_TTS_Latest.ipynb) <br>
+
+## F5_TTS Hindi
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuralFalconYT/Spark-TTS-Colab/blob/main/F5_TTS_Hindi_Small.ipynb) <br>
+
+## MaskGCT TTS
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuralFalconYT/Spark-TTS-Colab/blob/main/MaskGCT_TTS.ipynb) <br>
+
 ## Credit
+Spark-TTS:<br>
 [Spark-TTS](https://github.com/SparkAudio/Spark-TTS) <br>
 [Spark-TTS-0.5B Hugging Face](https://huggingface.co/SparkAudio/Spark-TTS-0.5B)
-## LICENSE
-[Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0) <br>
 
+CSM-1b: <br>
+[csm](https://github.com/SesameAILabs/csm) <br>
+[csm-1b ](https://huggingface.co/sesame/csm-1b)<br>
+F5-TTS:<br>
+[F5-TTS](https://github.com/SWivid/F5-TTS)<br>
+F5-TTS Hindi:<br>
+[F5-TTS Hindi](https://github.com/rumourscape/F5-TTS) <br>
+MaskGCT TTS:<br>
+[maskgct](https://github.com/open-mmlab/Amphion/tree/main/models/tts/maskgct) <br>
 
-## ⚠️ Usage Disclaimer <br>
-This zero-shot voice cloning TTS model is for academic, educational, and ethical applications like assistive tech and linguistic research. Misuse is prohibited, including fraud, impersonation, or illegal activities. Users must comply with laws and ethical standards. The developers are not liable for misuse.
+## ⚠️ Usage Disclaimer  
+
+These voice cloning text-to-speech (TTS) models are strictly intended for **academic, educational, and ethical** applications. Acceptable uses include but are not limited to:  
+
+- **Assistive Technology**: Supporting individuals with speech impairments or other communication challenges.  
+- **Linguistic Research**: Studying phonetics, speech synthesis, and language processing.  
+- **Educational Purposes**: Teaching speech synthesis, AI ethics, and related technologies in academic settings.  
+- **Personal Learning**: Exploring AI-driven voice generation for non-commercial, knowledge-enhancing projects.  
+
+### **Prohibited Uses**  
+Misuse of these models is strictly forbidden. Users must not engage in:  
+
+- **Fraud or Deception**: Creating deepfake voices for misleading or deceptive activities.  
+- **Impersonation**: Unauthorized replication of voices for fraudulent, harmful, or deceptive intent.  
+- **Illegal Activities**: Any use that violates laws, regulations, or ethical guidelines.  
+- **Harmful Content Creation**: Generating misleading, offensive, or unethical content using cloned voices.  
+
+The developers **bear no liability** for any misuse, and users are solely responsible for ensuring their applications adhere to legal and ethical guidelines.  
+
