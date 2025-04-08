@@ -1,3 +1,7 @@
+## OuteTTS
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuralFalconYT/Spark-TTS-Colab/blob/main/Try_OuteTTS.ipynb) <br>
+
+
 ## Spark TTS
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuralFalconYT/Spark-TTS-Colab/blob/main/Spark_TTS_Colab.ipynb) <br>
 
@@ -14,6 +18,10 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuralFalconYT/Spark-TTS-Colab/blob/main/MaskGCT_TTS.ipynb) <br>
 
 ## Credit
+OuteTTS:<br>
+[OuteTTS](https://github.com/edwko/OuteTTS) <br>
+[Llama-OuteTTS-1.0-1B](https://huggingface.co/OuteAI/Llama-OuteTTS-1.0-1B) <br>
+
 Spark-TTS:<br>
 [Spark-TTS](https://github.com/SparkAudio/Spark-TTS) <br>
 [Spark-TTS-0.5B Hugging Face](https://huggingface.co/SparkAudio/Spark-TTS-0.5B)
