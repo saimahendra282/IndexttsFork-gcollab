@@ -1,6 +1,8 @@
+## ChatterBox
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuralFalconYT/chatterbox-colab/blob/main/ChatterBox_Colab.ipynb) <br>
+
 ## OuteTTS
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuralFalconYT/Spark-TTS-Colab/blob/main/Try_OuteTTS.ipynb) <br>
-
 
 ## Spark TTS
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuralFalconYT/Spark-TTS-Colab/blob/main/Spark_TTS_Colab.ipynb) <br>
