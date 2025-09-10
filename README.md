@@ -1,3 +1,10 @@
+
+
+
+## Chatterbox
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuralFalconYT/chatterbox-colab/blob/main/ChatterBox_Podcast.ipynb) <br>
+
+
 ## DMOSpeech2
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuralFalconYT/Spark-TTS-Colab/blob/main/DMOSpeech2.ipynb) <br>
 
