@@ -1,10 +1,5 @@
 ## IndexTTS 2
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuralFalconYT/chatterbox-colab/blob/main/IndexTTS_2.ipynb) <br>
-
-
-## Chatterbox
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuralFalconYT/chatterbox-colab/blob/main/ChatterBox_Podcast.ipynb) <br>
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuralFalconYT/Voice-Clone/blob/main/IndexTTS_2.ipynb) <br>
 
 ## DMOSpeech2
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuralFalconYT/Spark-TTS-Colab/blob/main/DMOSpeech2.ipynb) <br>
