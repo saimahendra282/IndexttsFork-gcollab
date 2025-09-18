@@ -1,3 +1,6 @@
+## VoxCPM
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuralFalconYT/Voice-Clone/blob/main/VoxCPM_Colab.ipynb) <br>
+
 ## IndexTTS 2
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuralFalconYT/Voice-Clone/blob/main/IndexTTS_2.ipynb) <br>
 
