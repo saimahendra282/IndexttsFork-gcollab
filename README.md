@@ -1,32 +1,32 @@
 ## VoxCPM
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuralFalconYT/Voice-Clone/blob/main/VoxCPM_Colab.ipynb) <br>
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saimahendra282/Voice-Clone/blob/main/VoxCPM_Colab.ipynb) <br>
 
 ## IndexTTS 2
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuralFalconYT/Voice-Clone/blob/main/IndexTTS_2.ipynb) <br>
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saimahendra282/Voice-Clone/blob/main/IndexTTS_2.ipynb) <br>
 
 ## DMOSpeech2
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuralFalconYT/Spark-TTS-Colab/blob/main/DMOSpeech2.ipynb) <br>
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saimahendra282/Spark-TTS-Colab/blob/main/DMOSpeech2.ipynb) <br>
 
 ## ChatterBox
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuralFalconYT/chatterbox-colab/blob/main/ChatterBox_Colab.ipynb) <br>
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saimahendra282/chatterbox-colab/blob/main/ChatterBox_Colab.ipynb) <br>
 
 ## OuteTTS
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuralFalconYT/Spark-TTS-Colab/blob/main/Try_OuteTTS.ipynb) <br>
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saimahendra282/Spark-TTS-Colab/blob/main/Try_OuteTTS.ipynb) <br>
 
 ## Spark TTS
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuralFalconYT/Spark-TTS-Colab/blob/main/Spark_TTS_Colab.ipynb) <br>
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saimahendra282/Spark-TTS-Colab/blob/main/Spark_TTS_Colab.ipynb) <br>
 
 ## csm-1b
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuralFalconYT/Spark-TTS-Colab/blob/main/CSM.ipynb) <br>
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saimahendra282/Spark-TTS-Colab/blob/main/CSM.ipynb) <br>
 
 ## F5_TTS
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuralFalconYT/Spark-TTS-Colab/blob/main/F5_TTS_Latest.ipynb) <br>
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saimahendra282/Spark-TTS-Colab/blob/main/F5_TTS_Latest.ipynb) <br>
 
 ## F5_TTS Hindi
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuralFalconYT/Spark-TTS-Colab/blob/main/F5_TTS_Hindi_Small.ipynb) <br>
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saimahendra282/Spark-TTS-Colab/blob/main/F5_TTS_Hindi_Small.ipynb) <br>
 
 ## MaskGCT TTS
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuralFalconYT/Spark-TTS-Colab/blob/main/MaskGCT_TTS.ipynb) <br>
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saimahendra282/Spark-TTS-Colab/blob/main/MaskGCT_TTS.ipynb) <br>
 
 ## Credit
 OuteTTS:<br>
